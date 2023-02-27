@@ -1,0 +1,19 @@
+{
+  "name": "9-setup-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1",
+    "@truffle/hdwallet-provider": "^2.1.6",
+    "dotenv": "^16.0.3",
+    "solc": "^0.5.7",
+    "web3": "^1.8.2"
+  }
+}
